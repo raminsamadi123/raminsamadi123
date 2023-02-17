@@ -1,5 +1,5 @@
 
-# 👨‍💻 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://visitcount.itsvg.in/api?id=raminsamadi123&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+# 👨‍💻 About Me:  <img align="right" src="https://visitcount.itsvg.in/api?id=raminsamadi123&label=Profile%20Views&color=12&icon=5&pretty=false">
 I'm Ramin, a passionate open source enthusiast. I'm currently based in Sweden, and I love contributing to free and open source software.<br>🔭 I'm currently working on:<br>    Project 1 - Auto installation script for Hyprland that makes Linux ricing easier<br> <br>🌱 I'm currently learning:<br>    Shell Script - I'm learning it because it is essential for Linux automation<br><br>💬 Ask me about:<br>    Anything related to Linux and open source software.<br>    Web development technologies such as JavaScript, HTML and CSS.
 
 
