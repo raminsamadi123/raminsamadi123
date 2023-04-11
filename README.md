@@ -1,7 +1,6 @@
 # 🚹 About Me:  <img align="right" src="https://visitcount.itsvg.in/api?id=raminsamadi123&label=Profile%20Views&color=12&icon=5&pretty=false">
 I'm Ramin, a passionate open source enthusiast. I'm currently based in Sweden, and I love contributing to free and open source software.<br><br>
 ⚙️ I'm currently working on:   
-Project 1 - Auto installation script for Hyprland that makes Linux ricing easier<br>
 Project 1 - Auto installation script for my own DWM setup<br>
 
 🌱 I'm currently learning:   
